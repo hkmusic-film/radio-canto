@@ -1,11 +1,56 @@
 [
   {
-    "name": "Beyond - 誰伴我闖蕩",
+    "filename": "Beyond - 誰伴我闖蕩 (sub).txt",
+    "artist": "Beyond",
+    "name": "誰伴我闖蕩",
     "filetype": "txt",
     "link": "https://raw.githubusercontent.com/hkmusic-film/radio-canto/master/Beyond/Beyond%20-%20誰伴我闖蕩%20(sub).txt",
     "description": "subtitle only, not timed yet",
     "text": ["chinese", "cantonese", "vietnamese"]
   },
   {
+    "filename": "梅艷芳 - 夕陽之歌 (sub).txt",
+    "artist": "梅艷芳",
+    "name": "夕陽之歌",
+    "filetype": "txt",
+    "link": "https://raw.githubusercontent.com/hkmusic-film/radio-canto/master/Anita%20Mui/梅艷芳%20-%20夕陽之歌%20(sub).txt",
+    "description": "subtitle only, not timed yet",
+    "text": ["chinese", "cantonese"]
+  },
+  {
+    "filename": "床前明月光.ass",
+    "artist": "梅艷芳",
+    "name": "床前明月光",
+    "filetype": "ass",
+    "link": "https://raw.githubusercontent.com/hkmusic-film/radio-canto/master/Anita%20Mui/床前明月光/床前明月光.ass",
+    "description": "timed, no pinyin",
+    "text": ["chinese"]
+  },
+  {
+    "filename": "床前明月光.lrc",
+    "artist": "梅艷芳",
+    "name": "床前明月光",
+    "filetype": "lrc",
+    "link": "https://raw.githubusercontent.com/hkmusic-film/radio-canto/master/Anita%20Mui/床前明月光/床前明月光.lrc",
+    "description": "lrc file, no pinyin",
+    "text": ["chinese"]
+  },
+  {
+    "filename": "床前明月光_pinyin.lrc",
+    "artist": "梅艷芳",
+    "name": "床前明月光",
+    "filetype": "",
+    "link": "https://raw.githubusercontent.com/hkmusic-film/radio-canto/master/Anita%20Mui/床前明月光/床前明月光_pinyin.lrc",
+    "description": "lrc file, with pinyin",
+    "text": ["chinese", "pinyin"]
+  },
+  {
+    "filename": "",
+    "artist": "",
+    "name": "",
+    "filetype": "",
+    "link": "",
+    "description": "",
+    "text": []
   }
 ]
